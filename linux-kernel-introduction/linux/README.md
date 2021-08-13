@@ -7,7 +7,7 @@ provides an easy executable for it.
 
 ### Dependencies
 
-TODO
+`sudo apt install build-essential qemu-system-x86`
 
 ### KVM problem
 
@@ -50,3 +50,5 @@ And finally running `make olddefconfig`.
 ## create-image.sh
 
 File taken from [google/syzkaller](https://github.com/google/syzkaller).
+
+Requires debootstrap: `sudo apt install debootstrap`
