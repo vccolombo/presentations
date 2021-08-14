@@ -2,7 +2,7 @@
 
 ## Running
 
-This folder has a Linux 4.10.6 bzImage already compiled, allowing to just run it with QEMU. The [run.sh](./run.sh) script
+This folder has a Linux 4.4.10 bzImage already compiled, allowing to just run it with QEMU. The [run.sh](./run.sh) script
 provides an easy executable for it.
 
 ### Dependencies
